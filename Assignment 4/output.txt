@@ -1,0 +1,15 @@
+continental	PRP$
+garden	PRP$
+daruma	PRP$
+teashop	PRP$
+elmwood	PRP$
+pharmacy	PRP$
+everett	PRP$
+and	CC
+jones	PRP$
+barbecue	PRP$
+fat	PRP$
+slice	PRP$
+pizza	NN
+.	.
+
